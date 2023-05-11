@@ -1,0 +1,13 @@
+body {
+    background-color: #d9d9d9;
+}
+
+#ball {
+    height: 15px;
+    position: absolute;
+    width: 15px;
+    background-color: #de5dcd;
+    display: inline-block;
+    border-radius: 50%;
+}
+
